@@ -1,0 +1,70 @@
+[{
+  "question": "Who painted the Mona Lisa?",
+  "category": "Art",
+  "answer": "Leonardo da Vinci",
+  "choices": ["Pablo Picasso", "Vincent van Gogh", "Leonardo da Vinci"]
+},
+
+{
+  "question": "What is the chemical symbol for gold?",
+  "category": "Science",
+  "answer": "Au",
+  "choices": ["Ag", "Au", "Fe"]
+},
+
+{
+  "question": "What is the largest planet in our solar system?",
+  "category": "Astronomy",
+  "answer": "Jupiter",
+  "choices": ["Venus", "Saturn", "Jupiter"]
+},
+
+{
+  "question": "Who wrote the novel 'Pride and Prejudice'?",
+  "category": "Literature",
+  "answer": "Jane Austen",
+  "choices": ["Jane Austen", "Emily Brontë", "Charles Dickens"]
+},
+
+{
+  "question": "What is the capital of Canada?",
+  "category": "Geography",
+  "answer": "Ottawa",
+  "choices": ["Toronto", "Vancouver", "Ottawa"]
+},
+
+{
+  "question": "Which scientist developed the theory of relativity?",
+  "category": "Science",
+  "answer": "Albert Einstein",
+  "choices": ["Isaac Newton", "Marie Curie", "Albert Einstein"]
+},
+
+{
+  "question": "Who is the author of the 'Harry Potter' book series?",
+  "category": "Literature",
+  "answer": "J.K. Rowling",
+  "choices": ["J.R.R. Tolkien", "J.K. Rowling", "George R.R. Martin"]
+},
+
+{
+  "question": "What is the highest mountain in the world?",
+  "category": "Geography",
+  "answer": "Mount Everest",
+  "choices": ["Mount Kilimanjaro", "Mount Everest", "Mount Fuji"]
+},
+
+{
+  "question": "What is the chemical symbol for oxygen?",
+  "category": "Science",
+  "answer": "O",
+  "choices": ["C", "O", "H"]
+},
+
+{
+  "question": "Who painted the famous artwork 'The Starry Night'?",
+  "category": "Art",
+  "answer": "Vincent van Gogh",
+  "choices": ["Salvador Dali", "Leonardo da Vinci", "Vincent van Gogh"]
+}
+  ]
