@@ -13,3 +13,4 @@ data class QuizMbo (
     @SerializedName("answer"   ) var answer   : String?           = null,
     @SerializedName("choices"  ) var choices  : ArrayList<String> = arrayListOf()
         )
+//https://raw.githubusercontent.com/kannanpvm007/Quiz_WIth_jetpack/master/app/src/main/java/com/example/quizwithjetpack/josn/Quiz.json
